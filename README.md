@@ -13,7 +13,7 @@ I design and build scalable, high-performance backend systems using modern JavaS
 - 💻 **Backend Software Engineer** experienced with **Node.js, Express, MongoDB & REST APIs**
 - 🧠 Passionate about **backend architecture**, **performance optimization**, and **scalable systems**
 - 🛠 Love building **clean APIs**, handling **business logic**, and optimizing **database performance**
-- 💬 Ask me about **API design**, **Node.js best practices**, **Express**, and **MongoDB**
+- 💬 Ask me about **API design**, **Node.js**, **Express**, and **MongoDB**
 
 ---
 
