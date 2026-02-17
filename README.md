@@ -1,51 +1,40 @@
-<h1 align="left">Hey 👋 Im Rabbiah.</h1>
+<h1 align="left">Hey 👋 I'm Rabbiah</h1>
 
-###
+<h3 align="left">Backend-Focused Software Engineer 👩‍💻</h3>
 
-<p align="left"></p>
+<p align="left">
+I design and build scalable, high-performance backend systems using modern JavaScript technologies.
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-###
+- 💻 **Backend Software Engineer** experienced with **Node.js, Express, MongoDB & REST APIs**
+- 🧠 Passionate about **backend architecture**, **performance optimization**, and **scalable systems**
+- 🛠 Love building **clean APIs**, handling **business logic**, and optimizing **database performance**
+- 💬 Ask me about **API design**, **Node.js best practices**, **Express**, and **MongoDB**
 
-<h6 align="left">💫About Me:👩‍💻 Backend Focused Software Engineer with experience in Node.js, Express, MongoDB, and RESTful API.<br>🧩Interested in backend architecture, performance optimization, and scalable systems.<br>🛠 Ask me about API design, backend best practices, Node.js, Express, and MongoDB.</h6>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 🧰 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 </div>
-
-###
 <!--
 **Rabbiah5/Rabbiah5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
