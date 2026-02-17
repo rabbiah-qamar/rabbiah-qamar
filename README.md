@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">💫  My Teach Stack</h3>
+
+###
+
 <h4 align="left">💻 Backend Software Engineer experienced with Node.js, Express, MongoDB & REST APIs<br>🧠 Passionate about backend architecture, performance optimization, and scalable systems<br>🛠 Love building clean APIs, handling business logic, and optimizing database performance<br>💬 Ask me about API design, Node.js, Express, and MongoDB</h4>
 
 ###
