@@ -1,39 +1,47 @@
-<h1 align="left">Hey 👋 I'm Rabbiah</h1>
+<h2 align="left">Hey 👋 I'm Rabbiah</h2>
 
-<h3 align="left">Backend-Focused Software Engineer 👩‍💻</h3>
+###
 
-<p align="left">
-I design and build scalable, high-performance backend systems using modern JavaScript technologies.
-</p>
+<h5 align="left">💻 Backend Software Engineer experienced with Node.js, Express, MongoDB & REST APIs<br>🧠 Passionate about backend architecture, performance optimization, and scalable systems<br>🛠 Love building clean APIs, handling business logic, and optimizing database performance<br>💬 Ask me about API design, Node.js, Express, and MongoDB</h5>
 
----
+###
 
-## 🚀 About Me
+<img align="right" height="150" src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif"  />
 
-- 💻 **Backend Software Engineer** experienced with **Node.js, Express, MongoDB & REST APIs**
-- 🧠 Passionate about **backend architecture**, **performance optimization**, and **scalable systems**
-- 🛠 Love building **clean APIs**, handling **business logic**, and optimizing **database performance**
-- 💬 Ask me about **API design**, **Node.js**, **Express**, and **MongoDB**
-
----
-
-## 🧰 Tech Stack
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-<!--
-**Rabbiah5/Rabbiah5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/rabbiah-qamar-56b529263/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:rabbiahqamar5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabbiah-qamar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbiah-qamar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
