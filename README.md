@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif"  />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya3hjcjN0YjY4eWZnM2hwaHdpbW42aHFnNGNjdmtqam8wZmI3dGh2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/200w.gif"  />
 
 ###
 
