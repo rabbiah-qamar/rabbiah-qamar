@@ -35,7 +35,7 @@
 
 ###
 
-<img align="left" height="193" src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif"  />
 
 ###
 
