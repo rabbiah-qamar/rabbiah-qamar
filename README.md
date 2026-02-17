@@ -2,28 +2,24 @@
 
 ###
 
-<h5 align="left">💻 Backend Software Engineer experienced with Node.js, Express, MongoDB & REST APIs<br>🧠 Passionate about backend architecture, performance optimization, and scalable systems<br>🛠 Love building clean APIs, handling business logic, and optimizing database performance<br>💬 Ask me about API design, Node.js, Express, and MongoDB</h5>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif"  />
+<h4 align="left">💻 Backend Software Engineer experienced with Node.js, Express, MongoDB & REST APIs<br>🧠 Passionate about backend architecture, performance optimization, and scalable systems<br>🛠 Love building clean APIs, handling business logic, and optimizing database performance<br>💬 Ask me about API design, Node.js, Express, and MongoDB</h4>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
 </div>
 
 ###
@@ -39,9 +35,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbiah-qamar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbiah-qamar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img align="left" height="193" src="https://media.tenor.com/MBi81kQ7aU0AAAAM/anime-computer-gurl.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=rabbiah-qamar&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=22&date_format=M%20j%5B,%20Y%5D&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
