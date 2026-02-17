@@ -1,15 +1,15 @@
 <h2 align="left">Hey 👋 I'm Rabbiah</h2>
 
-
+###
 
 <h4 align="left">💻 Backend Software Engineer experienced with Node.js, Express, MongoDB & REST APIs<br>🧠 Passionate about backend architecture, performance optimization, and scalable systems<br>🛠 Love building clean APIs, handling business logic, and optimizing database performance<br>💬 Ask me about API design, Node.js, Express, and MongoDB</h4>
 
-###
 ###
 
 <h3 align="left">💫  My Teach Stack</h3>
 
 ###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya3hjcjN0YjY4eWZnM2hwaHdpbW42aHFnNGNjdmtqam8wZmI3dGh2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/200w.gif"  />
+<img align="right" height="240" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya3hjcjN0YjY4eWZnM2hwaHdpbW42aHFnNGNjdmtqam8wZmI3dGh2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/200w.gif"  />
 
 ###
 
